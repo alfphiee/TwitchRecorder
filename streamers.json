@@ -1,0 +1,5 @@
+{
+  "channels": ["Alfphie"],
+  "check_interval": 60,
+  "output_directory": "/streamer_archive"
+}
